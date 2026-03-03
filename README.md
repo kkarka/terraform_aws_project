@@ -79,7 +79,7 @@ Configured:
 - SSH (Port 22) – Open (demo purpose only)  
 - All outbound traffic allowed  
 
-> ⚠ In production, SSH should be restricted or replaced with SSM Session Manager.
+> In production, SSH should be restricted or replaced with SSM Session Manager.
 
 ---
 
@@ -283,5 +283,6 @@ Through this project, I demonstrated:
 
 ## Author
 Kiran Kumar Arka
+
 DevOps | Cloud | Terraform | AWS
 
